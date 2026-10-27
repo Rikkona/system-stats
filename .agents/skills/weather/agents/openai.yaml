@@ -1,0 +1,6 @@
+interface:
+  display_name: "Weather — Open-Meteo"
+  short_description: "Погода и прогноз через Open-Meteo для вашего города"
+  default_prompt: "Используй $weather, чтобы проверить погоду в указанном городе."
+policy:
+  allow_implicit_invocation: true
